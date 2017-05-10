@@ -6,7 +6,7 @@ public class test22 {
 		System.out.println("dfdfdf");
 		System.out.println("dfdfdf");
 		System.out.println("dfdfddddf");
-		System.out.println("dfdfdfucmnf");
+		System.out.println("dfdfddddfucmnf");
 	}
 
 }
